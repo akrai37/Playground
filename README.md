@@ -1,5 +1,5 @@
 # Core JAVA Concepts
-*FirstProject
-*SecondProject
-*ThirdProject
+* FirstProject
+* SecondProject
+* ThirdProject
 
