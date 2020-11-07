@@ -1,0 +1,20 @@
+Synchronization
+--------------------------------------------------------------------------
+It is a process to control multiple threads and launch them one by one.
+
+
+Three ways to achieve synchronization
+--------------------------------------------------------------------------
+1.Method Level synchronization
+2.block or object level
+3.static or class level synchronization
+
+
+-----------------------------------------------------------------------------
+->If we want the currently executing thread to wait for some time, we use 'sleep()' method.
+->if we want to communicate between different threads, we can use wait(),notify(),notifyall();.
+
+
+
+
+
